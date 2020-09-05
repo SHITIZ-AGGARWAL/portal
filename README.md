@@ -231,7 +231,7 @@ For more information on semantics and builds, please refer to the Sphinx
 
 You can view the requirements document [here](docs/requirements/Systers_GSoC14_Portal_Requirements.pdf).
 
- 
+
 Contact
 -------
 
